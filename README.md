@@ -1,6 +1,6 @@
 # vue-cli
 
-> A Vue.js project
+> A Vue.js project - adding guotes. Project from course - VueJS.
 
 ## Build Setup
 
